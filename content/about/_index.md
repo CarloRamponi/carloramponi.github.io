@@ -29,7 +29,7 @@ My primary focus revolves around the security aspects of embedded and Internet-o
 
 ### CTFs
 
-I like participating cybersecurity competitions, take a look at the time I'm part of: [CyberSp3ck](https://cybersp3ck.github.io)
+I like participating cybersecurity competitions, take a look at the team I'm part of: [CyberSp3ck](https://cybersp3ck.github.io)
 
 My preferred challenge cathegories are (in order of preference): Binary Exploitation (pwn), Reverse Engineering (rev), Hardware (hw) and Crypto.
 
