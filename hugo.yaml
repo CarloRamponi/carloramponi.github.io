@@ -68,6 +68,8 @@ params:
       url: "https://www.linkedin.com/in/carlo-ramponi/"
     - name: twitter
       url: "https://twitter.com/magocarlos1999"
+    - name: email 
+      url: "mailto:carlo.ramponi@unitn.it"
 
   cover:
     hidden: true # hide everywhere but not in structured data
