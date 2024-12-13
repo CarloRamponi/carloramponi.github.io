@@ -9,9 +9,11 @@ My primary focus revolves around the security aspects of embedded and Internet-o
 
 ## Education
 
-- **PhD in Cybersecurity**, (_Maybe_)
+- **PhD in Cybersecurity**, _2024-Present_
 
   _At:_ [University of Trento](https://unitn.it)
+
+  My research interests are in the field of System Security, with a focus on embedded systems, IoT and IIoT devices.
 
 - **MSc in Computer Science, Cybersecurity**, _2021-2023, 110 cum laude /110_
 
