@@ -27,6 +27,20 @@ My primary focus revolves around the security aspects of embedded and Internet-o
   _At:_ [University of Trento](https://unitn.it)
 
 
+## Experience
+
+- **System Security Reasercher intern**, Huawei Research Center, Munich (DE), _2024_
+
+  During my internship at Huawei, I focused on the security of in-house AI accelerators and Nvidia GPUs.
+
+- **Security Researcher intern**, Quarkslab, Paris (FR), _2023_
+
+  During my Internship at Quarkslab, I focused on analyzing the User Terminal 
+	of a satellite internet provider (Starlink).
+	I employed reverse engineering techniques to understand its internal operations
+	and to research possible vulnerabilities.
+	I've also published a [blog post](https://blog.quarkslab.com/starlink.html) about my research.
+
 ## Interests
 
 ### CTFs
