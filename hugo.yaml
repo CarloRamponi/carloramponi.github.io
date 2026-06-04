@@ -71,6 +71,9 @@ params:
     - name: googlescholar
       url: "https://scholar.google.it/citations?user=J4J8NSUAAAAJ&hl=en"
       title: "Google Scholar"
+    - name: orcid
+      url: "https://orcid.org/0009-0009-0683-4608"
+      title: "ORCID"
     - name: email 
       url: "mailto:carlo.ramponi@unitn.it"
 
