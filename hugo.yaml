@@ -68,8 +68,9 @@ params:
       url: "https://github.com/carloramponi"
     - name: linkedin
       url: "https://www.linkedin.com/in/carlo-ramponi/"
-    - name: twitter
-      url: "https://twitter.com/magocarlos1999"
+    - name: googlescholar
+      url: "https://scholar.google.it/citations?user=J4J8NSUAAAAJ&hl=en"
+      title: "Google Scholar"
     - name: email 
       url: "mailto:carlo.ramponi@unitn.it"
 
@@ -95,6 +96,9 @@ menu:
 
 pygmentsUseClasses: true
 markup:
+  goldmark:
+    renderer:
+      unsafe: true
   highlight:
     noClasses: false
     # anchorLineNos: true
