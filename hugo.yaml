@@ -53,6 +53,8 @@ params:
     buttons:
       - name: About me
         url: "/about/"
+      - name: Publications
+        url: "/publications/"
       - name: CV
         url: "/files/cv.pdf"
       - name: Posts
@@ -82,10 +84,14 @@ menu:
       name: Posts
       url: /posts/
       weight: 10
+    - identifier: publications
+      name: Publications
+      url: /publications/
+      weight: 20
     - identifier: about
       name: About me
       url: /about/
-      weight: 20
+      weight: 30
 
 pygmentsUseClasses: true
 markup:
