@@ -46,7 +46,8 @@ params:
     enabled: true
     title: "Carlo Ramponi"
     subtitle: >
-      System Security Researcher at [University of Trento](https://www.unitn.it/)
+      System Security Researcher in the [UniTN Cybersecurity Research Group](https://cybersecurityunitn.github.io/)
+      at [University of Trento](https://www.unitn.it/)
     imageUrl: "/images/propic.jpg"
     imageWidth: 200
     imageHeight: 200

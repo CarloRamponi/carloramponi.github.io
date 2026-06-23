@@ -4,7 +4,9 @@ title = "About me"
 date = "2023-12-21"
 +++
 
-I'm Carlo Ramponi, a System Security researcher at the [University of Trento](https://unitn.it).
+I'm Carlo Ramponi, a System Security researcher in the
+[UniTN Cybersecurity Research Group](https://cybersecurityunitn.github.io/) at the
+[University of Trento](https://unitn.it).
 My primary focus revolves around the security aspects of embedded and Internet-of-Things (IoT) devices. I specialize in discovering attacks and implementing defenses from the OS-level downward.
 
 ## Education
