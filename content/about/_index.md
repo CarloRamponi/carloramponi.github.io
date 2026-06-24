@@ -34,6 +34,7 @@ My primary focus revolves around the security aspects of embedded and Internet-o
 - **System Security Reasercher intern**, Huawei Research Center, Munich (DE), _2024_
 
   During my internship at Huawei, I focused on the security of in-house AI accelerators and Nvidia GPUs.
+  I also wrote about the GPU paper that grew out of this work and additional research at the [University of Trento](/posts/mitigating-code-injection-attacks-on-modern-gpus/).
 
 - **Security Researcher intern**, Quarkslab, Paris (FR), _2023_
 
